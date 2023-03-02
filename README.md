@@ -1,3 +1,3 @@
 # Tic_Tac_Toe
-I made it! '\n'
+I made it!
 SUCCESS!
